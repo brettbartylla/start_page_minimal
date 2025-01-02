@@ -21,6 +21,9 @@ body {
 nav {
   text-align: center;
 }
+h3 {
+  text-decoration: underline;
+}
 nav a {
   display: block;
   text-decoration: none;
